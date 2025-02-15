@@ -4,10 +4,8 @@ const popupCloseButton = document.querySelector('.popup-btn');
 
 popupOpenButton.addEventListener('click', () => {
     popup.classList.toggle('show');
-});
 
-popupCloseButton.addEventListener('click', () => {
-    if(popup.classList != '') {
+    popupCloseButton.addEventListener('click', () => {
         popup.classList.remove('show');
-    }
+    });
 });
