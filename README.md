@@ -1,4 +1,4 @@
-# JAVASCRIPT PROJECTS
+# JAVASCRIPT PROJECTS I MADE
 
 - [x] Taking Note App
     - [x] Responsive Design
