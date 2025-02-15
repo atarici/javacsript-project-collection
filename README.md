@@ -7,7 +7,7 @@
 - [x] TIC-TAC-TOE
 	- [x] Responsive Design
 - [ ] To-do App
-- [ ] Timer
+- [ ] Pomodoro Timer
 - [ ] Calculator
 - [ ] Weather App
 - [ ] Chess 
