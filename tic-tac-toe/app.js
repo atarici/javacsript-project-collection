@@ -20,16 +20,16 @@ const appendCrossOrCircle = (square) => {
 	square.textContent = turn
 
 	if (turn === 'X') {
-    turn = 'O';
-    footer.textContent = `${turn}'s turn.`
-    square.classList.add('red')    
-  } else {
-    turn = 'X';
-    footer.textContent = `${turn}'s turn.`
-    square.classList.add('blue')
-  }
+    		turn = 'O';
+    		footer.textContent = `${turn}'s turn.`
+    		square.classList.add('red')    
+  	} else {
+    		turn = 'X';
+    		footer.textContent = `${turn}'s turn.`
+    		square.classList.add('blue')
+  	}
 
-  checkWin() // check win after every move
+  	checkWin() // check win after every move
 }
 
 const checkWin = () =>  {
