@@ -2,7 +2,7 @@
 
 - [x] Taking Note App
     - [x] Responsive Design
-- [x] Basic Pop up template
+- [x] Basic Pop-up template
 	- [ ] Responsive Design
 - [x] TIC-TAC-TOE
 	- [x] Responsive Design
