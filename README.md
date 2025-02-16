@@ -2,13 +2,15 @@
 
 - [x] Taking Note App
     - [x] Responsive Design
-- [x] Basic Pop-up template
+- [x] Basic Pop-up
 	- [ ] Responsive Design
+- [ ] Toggle Switch Checkbox
 - [x] TIC-TAC-TOE
 	- [x] Responsive Design
 - [ ] To-do App
-- [ ] Pomodoro Timer
+- [ ] Countdown Timer
 - [ ] Calculator
+- [ ] Pomodoro Timer
 - [ ] Weather App
 - [ ] Chess 
 
