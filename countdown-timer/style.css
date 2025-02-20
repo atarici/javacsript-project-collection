@@ -1,0 +1,44 @@
+body {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+	user-select: none;
+}
+
+.header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 0;
+}
+
+.time {
+	font-size: 150px;
+}
+
+.main {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-direction: column;
+	height: 200px;
+}
+
+.set-timer {
+	width: 300px;
+	height: 30px;
+	cursor: pointer;
+}
+
+.btn-confirm, .btn-reset {
+	width: 60px;
+	height: 25px;
+	cursor: pointer;
+}
+
+.btn-confirm.disable {
+	opacity: 0.6;
+	cursor: auto;
+}
