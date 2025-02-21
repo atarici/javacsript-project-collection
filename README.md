@@ -11,7 +11,7 @@
 - [x] Countdown Timer
 - [ ] Calculator
 - [x] Pomodoro Timer
-	- [x] I established this project as a new repo. [Check out]["https://github.com/atarici/pomodoro-timer/tree/main"]
+	- [x] I established this project as a new repo. [Check out](https://github.com/atarici/pomodoro-timer/tree/main)
 - [ ] Weather App
 - [ ] Chess 
 
