@@ -10,7 +10,8 @@
 - [ ] To-do App
 - [x] Countdown Timer
 - [ ] Calculator
-- [ ] Pomodoro Timer
+- [x] Pomodoro Timer
+	- [x] I established this project as a new repo. [Check out]["https://github.com/atarici/pomodoro-timer/tree/main"]
 - [ ] Weather App
 - [ ] Chess 
 
