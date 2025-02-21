@@ -12,6 +12,11 @@
 - [ ] Calculator
 - [x] Pomodoro Timer
 	- [x] I established this project as a new repo. [Check out](https://github.com/atarici/pomodoro-timer/tree/main)
+- [ ] Pac-man
+- [ ] Minesweeper
+- [ ] Tetris
+- [ ] Breakout
+- [ ] Space Shooter
 - [ ] Weather App
 - [ ] Chess 
 
