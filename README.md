@@ -4,6 +4,7 @@
     - [x] Responsive Design
 - [x] Basic Pop-up
 	- [ ] Responsive Design
+- [ ] Typewriter Effect
 - [ ] Toggle Switch Checkbox
 - [x] TIC-TAC-TOE
 	- [x] Responsive Design
